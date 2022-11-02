@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WtZXjJTx6gcYAjnujGct33my6hFf2FTTL+LEi1E1J1o=",
+  "Source": "ArkTmStore.Api",
+  "BasePath": "_content/ArkTmStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

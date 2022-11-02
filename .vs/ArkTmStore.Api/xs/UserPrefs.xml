@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{23B2E394-964A-4433-A909-3AA965819D2C}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArkTmStore.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArkTmStore.Api/Program.cs">
+    <Files>
+      <File FileName="ArkTmStore.Api/Models/Producto.cs" Line="40" Column="28" />
+      <File FileName="ArkTmStore.Api/DatabaseContext/SqlInsert.sql" Line="22" Column="3" />
+      <File FileName="ArkTmStore.Api/Models/Category.cs" Line="4" Column="18" />
+      <File FileName="ArkTmStore.Api/Repository/IBrandRepository.cs" Line="6" Column="67" />
+      <File FileName="ArkTmStore.Api/Repository/ProductoRepository.cs" Line="18" Column="44" />
+      <File FileName="ArkTmStore.Api/Repository/BrandRepository.cs" Line="24" Column="1" />
+      <File FileName="ArkTmStore.Api/Controllers/BrandController.cs" Line="20" Column="6" />
+      <File FileName="ArkTmStore.Api/Program.cs" Line="19" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArkTmStore.Api" expanded="True">
+            <Node name="ArkTmStore.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DatabaseContext" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
